@@ -13,7 +13,6 @@
 **IDs:** You can find all game-specific identifiers in the `IDS/` folder.
 
 ## Credits 
-This project wouldn't be possible without the work of the community:
 
 * **JRPC Class :** I forgot where i found it lol, but credit to him.
 * **Se7enSins :** Some IDs [WaW IDs](https://www.se7ensins.com).
