@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomGroupBox\HaunterGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomTextBox\HaunterTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToggleButton\ToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UserControls\ButtonsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\COD4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\IW4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\IW5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\S1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\T4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\T5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\T7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,207 @@
+M19911 .45 = 1
+
+USP .45 = 2
+
+Desert Eagle = 3
+
+Gold Desert Eagle = 4
+
+Nothing = 5
+
+Nothing = 6
+
+Nothing = 7
+
+Nothing = 8
+
+Nothing = 9
+
+MP5 = 10
+
+SKORPION = 11
+
+Mini-Uzi = 12
+
+AK-74u = 13
+
+P90 = 14
+
+Nothing = 15
+
+Nothing = 16
+
+Nothing = 17
+
+Nothing = 18
+
+Nothing = 19
+
+AK-47 = 20
+
+M14 = 21
+
+MP44 = 22
+
+G3 = 23
+
+G36C = 24
+
+M16A4 = 25
+
+M4 CARBINE = 26
+
+Nothing = 27
+
+Nothing = 28
+
+Nothing = 29
+
+Nothing = 30
+
+Nothing = 31
+
+Nothing = 32
+
+Nothing = 33
+
+Nothing to 49 im lazy lol 
+
+Grenade = 50 Launcher
+
+Nothing to 54 
+
+RPG-7 = 55
+
+Nothing to 59
+
+Dragunov = 60
+
+M40A3 = 61
+
+Barret .50cal = 62
+
+Nothing = 63
+
+R700 = 64
+
+M21 = 65
+
+Nothing to 69 
+
+M1014 = 70
+
+W1200 = 71
+
+Nothing to 79 
+
+RPD = 80
+
+M240 SAW = 81
+
+M60E4 = 82
+
+Nothing to 89
+
+C4 = 90
+
+Claymore = 91
+
+Nothing to 99
+
+Frag = 100
+
+Flash Grenade = 101
+
+Smoke Grenade = 102
+
+Stun Grenade = 103
+
+Nothing to 149
+
+Eavesdrop = 150
+
+UAV Jammer = 151
+
+Iron Lungs = 152
+
+Dead Silence = 153
+
+Extreme Condition = 154
+
+Bomb Squader = 155
+
+Sonic Boom = 156
+
+Last Stand = 157
+
+Martyrdom = 158
+
+Nothing = 159
+
+Stopping Power = 160
+
+Deep Impact =  161
+
+Steady Aim = 162
+
+Double Tap = 163
+
+Sleight of Hand = 164
+
+Bandolier = 165
+
+Overkill = 166
+
+Juggernaut = 167
+
+Nothing to 172
+
+Frag x3 = 173
+
+Nothing to 175
+
+Special Grenade = 176
+
+Nothing to 183
+
+C4 x2 = 184
+
+Claymore x2 = 185
+
+RPG x2 = 186
+
+Nothing to 189
+
+None = 190
+
+Grenade Launcher = 191
+
+Grip = 192
+
+Attachements = 193
+
+Nothing = 194
+
+Demolition = 195
+
+Sniper = 196
+
+Create a Class = 197
+
+Challenges = 198
+
+Hardcore = 199
+
+OldSchool = 200
+
+Clan Tag = 201
+
+// Finished, because its value in bytes is 255 at most and there is nothing between 201 and 255.
+
+
+
+
+
+
+
+

@@ -1,0 +1,194 @@
+Nambu = 1
+
+Walther P38 = 2
+
+Tokarev TT - 33 = 3
+
+.357 Magnum = 4
+
+Nothing to 9
+
+Thompson = 10
+
+MP40 = 11
+
+Type 100 = 12
+
+PPSh-41 = 13
+
+Nothing to 19
+
+SVT-40 = 20
+
+Gewehr 43 = 21
+
+M1 Garand = 22
+
+M1A1 Carbine = 23
+
+STG-44 = 24
+
+Nothing to 39
+
+Browning M1919 = 40
+
+MG42 = 41
+
+DP-28 = 42
+
+Nothing to 49
+
+M2 Flamethrower = 50
+
+Nothing to 54
+
+M9A1 Bazooka = 55
+
+Nothing to 59
+
+Springfield = 60
+
+Mosin-Nagant = 61
+
+Arisaka = 62
+
+Kar98k = 63
+
+PTRS-41 = 64
+
+Nothing to 69
+
+M1897 Trench Gun = 70
+
+Double-Barreled Shotgun = 71
+
+Nothing to 79
+
+Type 99 = 80
+
+FG-42 = 81
+
+BAR = 82
+
+DP - 28 = 83
+
+Nothing to 90
+
+MINE BETTY = 91
+
+SATCHEL CHARGE = 92
+
+Nothing to 99
+
+FRAG = 100
+
+Molotov Cocktail = 101
+
+Smoke = 102
+
+Tabun Gas = 103
+
+N° 74 ST = 104
+
+Signal Flare = 105
+
+Nothing to 149
+
+Bomb Squad = 150
+
+Bandolier = 151
+
+Camouflage = 152
+
+Fireworks = 153
+
+Flak Jacket = 154
+
+Stopping Power = 155
+
+Double Tap = 156
+
+Sleight of Hand = 157
+
+Overkill = 158
+
+Juggernaut = 159
+
+Toss Back = 160
+
+Shades = 161
+
+Gas Mask = 162
+
+Iron Lungs = 163
+
+Dead Silence = 164
+
+Extreme Conditioning = 165
+
+Second Chance = 166
+
+Martyrdom = 167
+
+Depp Impact = 168
+
+Steady Aim = 169
+
+Fireproof = 170
+
+Reconnaissance = 171
+
+Greased Bearings = 172
+
+Water Cooler = 173
+
+Ordnance Training = 174
+
+Leadfoot = 175
+
+Coxial Machine Gun = 176
+
+Nothing to 179
+
+Primary Grenades x2 = 180
+
+Nothing = 181
+
+Special Grenades x2 = 182
+
+Nothing = 183
+
+Satchel Charge x2 = 184
+
+Bouncing Betty x2 = 185
+
+M9A1 Bazooka x2 = 186
+
+M2 Flamethrower = 187
+
+Nothing to 189
+
+None = 190
+
+Grenade Launcher = 191
+
+Grip = 192
+
+Attachment = 193
+
+Nothing = 194
+
+Close Assaut = 195
+
+Sniper = 196
+
+Create a Class = 197
+
+Challenges = 198
+
+Nothing to 200
+
+Clantag = 201
+
+// Finished, because its value in bytes is 255 at most and there is nothing between 201 and 255.
+
